@@ -1,6 +1,6 @@
 # Arcade Server
 
-The Frontend for the [CMGT Arcade Machine](https://hr-cmgt.github.io/arcade-server/)
+The Frontend for the [DE WINGERD Arcade Machine](https://hr-cmgt.github.io/arcade-server/)
 
 ![screenshot](./docs/images/screenshot.png)
 

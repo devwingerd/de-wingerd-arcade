@@ -242,11 +242,11 @@ page-menu .cursor {
 #logo {
     display: block;
     position: absolute;
-    width: 40px;
-    height: 30px;
+    width: 120px;
+    height: 100px;
     top: 1.2vh;
     right: 1.2vw;
-    background-image: url(../images/hrlogo.png);
+    background-image: url(../images/wingerd-logo.webp);
     background-size: contain;
     background-repeat: no-repeat;
 }

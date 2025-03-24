@@ -11,8 +11,8 @@ export class CreditsMenu extends HTMLElement {
 
         const menutexts = [
             "🔈: ON",
-            "Add your own game!",
-            "About CMGT"
+            "Voeg je spel toe!",
+            "About DE WINGERD"
         ]
         for (let text of menutexts) {
             const div = document.createElement("div")
@@ -54,6 +54,7 @@ export class CreditsMenu extends HTMLElement {
             break;
         case 2:
             // About CMGT logic here
+            window.location.href = "https://www.dewingerd.nl/"
             break;
         }
     }
